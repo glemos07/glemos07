@@ -1,7 +1,6 @@
 ## Olá! Sou o Guilherme!
 
 
-- 🔭 Hoje sou estagiário de HelpDesk
 - 🌱 Estudando Ciência de dados com o Python.
 
 <div align="center">
